@@ -1,5 +1,5 @@
 provider "google"{
-    credentials = file("~/terraform-key.json")
+    credentials = your path
     project = "terraform-455614"
     region = "us-central1"
     zone = "us-central1-c"
