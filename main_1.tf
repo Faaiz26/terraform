@@ -1,5 +1,5 @@
 provider "google"{
-    credentials = your path
+    credentials = "your path"
     project = "terraform-455614"
     region = "us-central1"
     zone = "us-central1-c"
